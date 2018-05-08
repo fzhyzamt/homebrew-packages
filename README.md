@@ -11,3 +11,5 @@ Homebrew packages. Available packages:
 $ brew tap bukalapak/packages
 $ brew install <package-name>
 ```
+
+> from bukalapak/homebrew-packages
